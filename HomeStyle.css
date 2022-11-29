@@ -179,6 +179,7 @@ a:active{
   object-fit: cover;
   size: relative;
     margin-left: 20px;
+  margin-right: 20px;
 }
 .persona{
     height: 500px;
