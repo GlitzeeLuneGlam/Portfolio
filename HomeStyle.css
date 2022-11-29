@@ -177,6 +177,7 @@ a:active{
   width: 650px;
   border-radius: 20px;
   object-fit: cover;
+  size: relative;
 }
 .persona{
     height: 500px;
@@ -184,6 +185,7 @@ a:active{
     border-radius: 20px;
     object-fit: cover;
     margin-right: 20px;
+  size: relative;
 }
 .virussona{
   height: 500px;
@@ -191,6 +193,7 @@ a:active{
   border-radius: 20px;
   object-fit: cover;
   margin-right: 20px;
+  size: relative;
 }
 .flex{
   display: flex;
